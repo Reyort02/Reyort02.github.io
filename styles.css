@@ -108,7 +108,7 @@ p {
     margin-left: -2%;
     padding: 5px;
     height: 50px;
-    width: 100%;
+    width: 98%;
     text-align: center;
     font-size: 9px;
 }
@@ -136,4 +136,6 @@ p {
 
 .contenedor{
     width: 100%;
+    margin: 0;
+    margin-left: -2%;
 }
