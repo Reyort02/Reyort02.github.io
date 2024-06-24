@@ -7,7 +7,7 @@ body {
 .cajaA {
     background: #000055;
     text-align: center;
-    width: 300px;
+    width: 330px;
     height: 70px;
     margin: auto;
     margin-top: 15px;
@@ -45,7 +45,7 @@ body {
     width: 50px;
     height: 50px;
     margin: 0%;
-    margin-left: 245px;
+    margin-left: 275px;
     margin-top: -65px;
     border-radius: 100%;
 }
@@ -60,7 +60,7 @@ body {
 .cajaB {
     background: #eee;
     text-align: center;
-    width: 300px;
+    width: 330px;
     height: 400px;
     margin: auto;
     padding: 15px 10px;
@@ -83,7 +83,7 @@ p {
     border-width: 1px;
     background: #eee;
     text-align: center;
-    width: 280px;
+    width: 310px;
     margin: auto;
     margin-top: 10px;
     margin-bottom: 10px;
@@ -117,7 +117,7 @@ p {
     border-width: 1px;
     background: #eee;
     text-align: left;
-    width: 320px;
+    width: 350px;
     margin: auto;
     margin-top: 10px;
     margin-bottom: 0px;
@@ -130,8 +130,4 @@ p {
     padding: 0;
     margin: 8px;
     font-size: 15px;
-}
-
-.contenedor {
-    
 }
