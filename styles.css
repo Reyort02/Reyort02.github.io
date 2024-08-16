@@ -83,6 +83,8 @@ p {
 button {
     height: 38px;
     width: 38px;
+    background-color: #fff;
+    border-style: none;
 }
 
 img {
